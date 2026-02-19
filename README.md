@@ -1,4 +1,4 @@
-# 📦 FiveM Car Coffre System (Coffre Véhicule)
+# 📦 System Coffre Véhicule FiveM
 
 Script FiveM permettant aux joueurs de monter dans le coffre d’un véhicule et d’en sortir avec animation, écran noir immersif et interaction via ox_target.
 
