@@ -1,6 +1,6 @@
 # 📦 System Coffre Véhicule FiveM
 
-Script FiveM permettant aux joueurs de monter dans le coffre d’un véhicule et d’en sortir avec animation, écran noir immersif et interaction via ox_target.
+Script semi-realiste FiveM permettant aux joueurs de faire des scènes
 
 Idéal pour les serveurs RP (scènes criminelles, kidnapping, infiltration, etc.).
 
@@ -11,10 +11,8 @@ Idéal pour les serveurs RP (scènes criminelles, kidnapping, infiltration, etc.
 - ✅ Monter dans le coffre d’un véhicule  
 - ✅ Sortir du coffre  
 - ✅ Animation immersive  
-- ✅ Écran noir lorsque le joueur est dans le coffre  
-- ✅ Désactivation des contrôles  
+- ✅ Écran noir lorsque le joueur est dans le coffre    
 - ✅ Vérification si le véhicule est verrouillé  
-- ✅ Fermeture automatique du coffre  
 - ✅ Sortie automatique si le véhicule est supprimé  
 - ✅ Notifications via ox_lib  
 - ✅ Interaction via ox_target  
@@ -52,4 +50,3 @@ ensure ox_lib
 ensure ox_target
 ensure coffre_car
 ```
-
