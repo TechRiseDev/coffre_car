@@ -2,6 +2,8 @@
 
 Script semi-realiste FiveM permettant aux joueurs de faire des scènes
 
+`Ce script est entièrement modifiable et adaptable le selon vos besoins.`
+
 Idéal pour les serveurs RP (scènes criminelles, kidnapping, infiltration, etc.).
 
 ---
