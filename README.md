@@ -39,7 +39,7 @@ Idéal pour les serveurs RP (scènes criminelles, kidnapping, infiltration, etc.
 
 ### 1️⃣ Télécharger le dossier
 
-Placez le dossier dans votre resources/
+Placez le dossier dans votre `resources/`
 
 ---
 
