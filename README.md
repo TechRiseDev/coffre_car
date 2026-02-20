@@ -21,7 +21,7 @@ Idéal pour les serveurs RP (scènes criminelles, kidnapping, infiltration, etc.
 
 ---
 
-## 📦 Dépendances
+ 📦 Dépendances
 
 - 🔹 **ox_lib**  
   👉 https://github.com/overextended/ox_lib  
@@ -32,6 +32,16 @@ Idéal pour les serveurs RP (scènes criminelles, kidnapping, infiltration, etc.
 - 🔹 FXServer (FiveM)
 
 ⚠️ Assurez-vous que `ox_lib` et `ox_target` sont installés et démarrés avant le dossier.
+
+---
+
+## ⚙️ Compatibilité
+
+- ✔️ cerulean
+- ✔️ Standalone
+- ✔️ Serveur RP
+- ✔️ ox_lib
+- ✔️ ox_target
 
 ---
 
