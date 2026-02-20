@@ -35,7 +35,7 @@ Idéal pour les serveurs RP (scènes criminelles, kidnapping, infiltration, etc.
 
 ---
 
-## ⚙️ Compatibilité
+## ⚙️ Compatibilité Framework
 
 - ✔️ cerulean
 - ✔️ Standalone
